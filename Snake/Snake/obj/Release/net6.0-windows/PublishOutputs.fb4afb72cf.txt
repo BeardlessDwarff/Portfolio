@@ -1,0 +1,5 @@
+E:\Source\SnakePublish\Snake.exe
+E:\Source\SnakePublish\Snake.dll
+E:\Source\SnakePublish\Snake.deps.json
+E:\Source\SnakePublish\Snake.runtimeconfig.json
+E:\Source\SnakePublish\Snake.pdb
