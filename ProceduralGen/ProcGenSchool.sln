@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcGenSchool.Plugins", "ProcGenSchool.Plugins.csproj", "{2BD01A8C-02DF-E3CD-518C-0A95FF605A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcGenSchool", "ProcGenSchool.csproj", "{E868CE86-46BD-0887-5C87-8BCAA673B66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcGenSchool.Editor", "ProcGenSchool.Editor.csproj", "{235FE607-C132-E2A4-2D39-3AC38F081959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD01A8C-02DF-E3CD-518C-0A95FF605A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD01A8C-02DF-E3CD-518C-0A95FF605A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD01A8C-02DF-E3CD-518C-0A95FF605A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD01A8C-02DF-E3CD-518C-0A95FF605A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E868CE86-46BD-0887-5C87-8BCAA673B66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E868CE86-46BD-0887-5C87-8BCAA673B66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E868CE86-46BD-0887-5C87-8BCAA673B66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E868CE86-46BD-0887-5C87-8BCAA673B66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235FE607-C132-E2A4-2D39-3AC38F081959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235FE607-C132-E2A4-2D39-3AC38F081959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235FE607-C132-E2A4-2D39-3AC38F081959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235FE607-C132-E2A4-2D39-3AC38F081959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
